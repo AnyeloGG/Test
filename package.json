@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "homepage": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "description": ""
+}
